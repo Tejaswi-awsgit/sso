@@ -1,0 +1,61 @@
+Certificate Request:
+    Data:
+        Version: 0 (0x0)
+        Subject: C=us, O=forwardinc, CN=smsessionstore
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a4:d8:01:b8:2b:0f:2f:26:76:a8:f9:87:07:59:
+                    87:29:bf:6e:a7:8c:8a:f4:d2:25:2d:ab:69:3d:9d:
+                    d7:97:a5:9b:48:41:9f:e7:25:14:fd:7e:d4:6e:6c:
+                    85:7e:99:03:af:69:a4:00:d3:a4:29:e4:40:83:9c:
+                    ba:4e:88:5e:ad:a0:c7:4c:8c:54:71:48:a1:32:58:
+                    30:63:ba:d7:3e:50:dc:63:b5:f1:8e:48:6d:28:fc:
+                    d5:93:72:26:54:5c:88:8e:60:42:84:6a:77:a4:ac:
+                    12:40:15:5d:82:9b:e1:af:33:8f:50:35:90:1c:bb:
+                    3a:5e:11:bd:8b:03:3b:fa:30:48:f6:9f:be:4c:7e:
+                    57:42:59:24:84:74:d7:00:c6:bd:a3:d9:71:80:28:
+                    78:48:f9:b7:5f:dc:3b:bc:3a:35:74:34:3d:6a:ab:
+                    48:a1:a7:f0:a0:34:09:80:6c:bd:47:41:b1:9e:23:
+                    8d:45:86:c0:e9:f7:ab:3e:8a:e6:8f:34:0e:40:3e:
+                    fd:d3:3d:58:cd:38:b2:0b:7e:01:32:ce:b1:aa:8a:
+                    c2:d3:0e:2a:61:62:3b:db:78:13:8a:37:6d:a7:8d:
+                    8d:30:63:95:98:65:0c:7a:90:e9:66:28:f2:7f:e9:
+                    f8:be:7a:59:8b:03:d7:ac:ba:a1:e5:9b:71:4d:45:
+                    f0:e5
+                Exponent: 65537 (0x10001)
+        Attributes:
+            a0:00
+    Signature Algorithm: sha256WithRSAEncryption
+         78:b6:a6:cc:09:9f:2b:9e:e6:2a:5f:0a:7c:25:8f:ed:ee:e8:
+         09:53:39:a3:d6:a9:d2:af:d5:24:80:fe:a4:5e:70:8c:3a:88:
+         d3:9b:5d:bc:50:40:4a:04:a2:bb:6f:8a:02:7d:20:a6:d7:06:
+         dc:b5:df:8d:6c:55:eb:d1:6b:b7:5e:25:72:22:6a:6c:90:42:
+         39:bf:40:e1:11:39:92:9e:ce:1a:8c:7f:74:95:8d:ec:93:c7:
+         2e:d7:23:98:a1:25:70:89:bb:5a:71:58:da:ed:fc:e1:8a:06:
+         f5:19:32:c8:0b:76:e3:37:1e:09:20:d2:46:89:06:fa:bc:af:
+         4c:4a:03:38:54:25:ff:fd:1a:59:c1:19:54:c2:4c:79:c1:da:
+         25:32:6c:3b:cc:a3:b2:3e:09:23:3f:27:bd:44:18:e4:53:19:
+         4a:11:48:c3:5e:f8:9a:fc:67:77:a6:03:08:01:f1:6e:8c:e2:
+         68:e9:75:3f:c3:0e:1e:ed:25:a6:23:d2:86:3c:c2:07:e0:1e:
+         8d:dc:1d:97:b3:d2:83:28:8d:c1:5b:bb:02:fd:59:34:9a:ee:
+         63:fb:34:c2:43:ae:77:4e:35:f7:a1:94:f4:a6:1c:8c:0d:8d:
+         ad:62:f6:be:6c:b1:fd:71:f8:6f:4c:03:71:ac:b4:ed:ae:3f:
+         11:e6:24:88
+-----BEGIN CERTIFICATE REQUEST-----
+MIICgDCCAWgCAQAwOzELMAkGA1UEBhMCdXMxEzARBgNVBAoMCmZvcndhcmRpbmMx
+FzAVBgNVBAMMDnNtc2Vzc2lvbnN0b3JlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEApNgBuCsPLyZ2qPmHB1mHKb9up4yK9NIlLatpPZ3Xl6WbSEGf5yUU
+/X7UbmyFfpkDr2mkANOkKeRAg5y6ToheraDHTIxUcUihMlgwY7rXPlDcY7Xxjkht
+KPzVk3ImVFyIjmBChGp3pKwSQBVdgpvhrzOPUDWQHLs6XhG9iwM7+jBI9p++TH5X
+QlkkhHTXAMa9o9lxgCh4SPm3X9w7vDo1dDQ9aqtIoafwoDQJgGy9R0GxniONRYbA
+6ferPormjzQOQD790z1YzTiyC34BMs6xqorC0w4qYWI723gTijdtp42NMGOVmGUM
+epDpZijyf+n4vnpZiwPXrLqh5ZtxTUXw5QIDAQABoAAwDQYJKoZIhvcNAQELBQAD
+ggEBAHi2pswJnyue5ipfCnwlj+3u6AlTOaPWqdKv1SSA/qRecIw6iNObXbxQQEoE
+ortvigJ9IKbXBty1341sVevRa7deJXIiamyQQjm/QOEROZKezhqMf3SVjeyTxy7X
+I5ihJXCJu1pxWNrt/OGKBvUZMsgLduM3Hgkg0kaJBvq8r0xKAzhUJf/9GlnBGVTC
+THnB2iUybDvMo7I+CSM/J71EGORTGUoRSMNe+Jr8Z3emAwgB8W6M4mjpdT/DDh7t
+JaYj0oY8wgfgHo3cHZez0oMojcFbuwL9WTSa7mP7NMJDrndONfehlPSmHIwNja1i
+9r5ssf1x+G9MA3GstO2uPxHmJIg=
+-----END CERTIFICATE REQUEST-----
